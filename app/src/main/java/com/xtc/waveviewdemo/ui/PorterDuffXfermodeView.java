@@ -18,10 +18,6 @@ import com.xtc.waveviewdemo.R;
 import com.xtc.waveviewdemo.utils.UiUtils;
 
 
-/**
- * @author tianjian
- * @created 2015/2/2
- */
 public class PorterDuffXfermodeView extends View {
 
     private static final int WAVE_TRANS_SPEED = 4;
